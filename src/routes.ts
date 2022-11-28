@@ -23,8 +23,8 @@ export const routes: IRoute[] = [
     ],
   },
   {
-    name: 'Example',
-    key: 'example',
+    name: 'menu.monitor',
+    key: 'monitor',
   },
 ];
 
